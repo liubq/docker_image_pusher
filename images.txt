@@ -4,3 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 wisemapping/wisemapping:latest
 kingmo888/rustdesk-api-server:latest
+star7th/showdoc:latest
