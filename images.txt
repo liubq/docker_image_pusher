@@ -6,4 +6,5 @@ wisemapping/wisemapping:latest
 kingmo888/rustdesk-api-server:latest
 star7th/showdoc:latest
 jc21/nginx-proxy-manager
+mysql
 xiaoyaliu/alist:latest
