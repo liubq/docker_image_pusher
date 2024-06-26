@@ -1,4 +1,3 @@
-nginx
 #支持私库
 wisemapping/wisemapping:latest
 kingmo888/rustdesk-api-server:latest
