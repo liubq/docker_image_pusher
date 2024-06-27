@@ -6,3 +6,4 @@ jc21/nginx-proxy-manager
 mysql
 xiaoyaliu/alist:latest
 xhofe/alist:latest
+portainer/portainer-ce
