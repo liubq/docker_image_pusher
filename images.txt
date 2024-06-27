@@ -7,3 +7,4 @@ mysql
 xiaoyaliu/alist:latest
 xhofe/alist:latest
 portainer/portainer-ce
+6053537/portainer-ce
