@@ -10,5 +10,8 @@ portainer/portainer-ce
 6053537/portainer-ce
 chishin/nginx-proxy-manager-zh
 gdy666/lucky
-outlinewiki/outline
+outlinewiki/outline:latest
 library/wordpress
+postgres:latest
+redis:latest
+minio/minio:latest
