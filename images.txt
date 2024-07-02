@@ -15,3 +15,4 @@ library/wordpress
 postgres:latest
 redis:latest
 minio/minio:latest
+gdy666/lucky
