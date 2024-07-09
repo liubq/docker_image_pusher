@@ -13,7 +13,4 @@ outlinewiki/outline:latest
 library/wordpress
 postgres:latest
 redis:latest
-minio/minio:latest
-gdy666/lucky:latest
-oldiy/npc-client:latest
 ffdfgdfg/npc:latest
