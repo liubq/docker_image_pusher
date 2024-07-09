@@ -16,3 +16,4 @@ redis:latest
 minio/minio:latest
 gdy666/lucky:latest
 oldiy/npc-client:latest
+ffdfgdfg/npc:latest
