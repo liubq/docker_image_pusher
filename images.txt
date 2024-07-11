@@ -14,3 +14,4 @@ library/wordpress
 postgres:latest
 redis:latest
 ffdfgdfg/npc:latest
+gdy666/lucky:latest
